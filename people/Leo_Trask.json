@@ -1,0 +1,7 @@
+{
+"name":"Leo Trask",
+"race":"Human",
+"archetype":"Merchant", 
+"description":"The appointed leader of the Town of Tymora. Granted his post by the patron.",
+"playable"   : false
+}
