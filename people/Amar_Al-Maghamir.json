@@ -9,7 +9,7 @@
 				"archetype":"",
 				}],
 "level"      :2, 
-"stats"      :["STR":10,"DEX":16,"CON":10,"INT":10,"WIS":14,"CHA":17],
+"stats"      :{"STR":10,"DEX":16,"CON":10,"INT":10,"WIS":14,"CHA":17},
 "languages"  :["common"],
 "feats"      :["Magic Adept"],
 "skill_proficiencies": ["Acrobatics","Sleight of Hand", "Stealth", "Investigation","Perception", "Deception","Intimidation","Persuasion"],
