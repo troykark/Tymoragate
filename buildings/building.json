@@ -1,0 +1,11 @@
+{
+"name":"The Owl Bear Inn",
+"description":"The local in and Tavern, the Owl Bear Inn is the owned and operated by Amar Al-Maghamir",
+"buildingtype":"inn",
+"notableitems":["Owl Bear Head","Worg Rug"],
+"location_x":23,
+"location_x":-15,
+"locationDescription":"Northeast of the Community house, where the Whisky river meets the Aethrwind river.  Next to the Tailor and across from the Church of Helm.",
+"Owner":"Amar Al-Maghamir"
+"Occupants":["Amar Al-Maghamir"]
+}

@@ -1,0 +1,21 @@
+{
+"name"       :"",
+"race"       :"",
+"archetype"  :"", 
+"description":"",
+"playable"   : false,
+"classes"    :[{"class":"",
+				"level":1,
+				"archetype":"",
+				}],
+"level"      :1, 
+"stats"      :["STR":10,"DEX":10,"CON":10,"INT":10,"WIS":10,"CHA":10],
+"languages"  :[],
+"feats"      :[],
+"skill_proficiencies": [],
+"hp":1,
+"sex":"F",
+"age":20,
+"background":"Acolyte",
+"spells":[]
+}

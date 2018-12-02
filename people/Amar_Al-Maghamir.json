@@ -1,0 +1,21 @@
+{
+"name"       :"Amar Al-Maghamir",
+"race"       :"Half-Elf",
+"archetype"  :"Inn Owner / Thieves Guild Leader", 
+"description":"The owner and proprieter of the Local in The Owl Bear",
+"playable"   : true,
+"classes"    :[{"class":"Rogue",
+				"level":2,
+				"archetype":"",
+				}],
+"level"      :2, 
+"stats"      :["STR":10,"DEX":16,"CON":10,"INT":10,"WIS":14,"CHA":17],
+"languages"  :["common"],
+"feats"      :["Magic Adept"],
+"skill_proficiencies": ["Acrobatics","Sleight of Hand", "Stealth", "Investigation","Perception", "Deception","Intimidation","Persuasion"],
+"hp":11,
+"sex":"M",
+"age":72,
+"background":"Criminal",
+"spells":["Presdidigitation", "Friends", "Hex"]
+}
